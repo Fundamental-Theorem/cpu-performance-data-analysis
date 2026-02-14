@@ -6,7 +6,7 @@ This project presents an applied data analysis study focused on understanding, m
 
 Rather than treating the dataset as a purely predictive benchmark, the project emphasizes **statistical reasoning**, **sampling variability**, **model diagnostics**, and **methodological decision-making**. Through a sequence of focused analytical investigations, the project explores how conclusions about performance, relationships between variables, and model reliability depend on assumptions, sample size, and analytical choices.
 
-The work is structured around **six core analytical questions**, each motivated by a realistic data science scenario and designed to demonstrate meaningful understanding of data analysis beyond mechanical computation.
+The work is structured around **five core analytical questions**, each motivated by a realistic data science scenario and designed to demonstrate meaningful understanding of data analysis beyond mechanical computation.
 
 ---
 
